@@ -1,5 +1,7 @@
 /dts-v1/;
 
+#include "mt6735m.dts"
+
 / {
 	model = "MT6735M";
 	compatible = "mediatek,MT6735M";
